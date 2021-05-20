@@ -1,0 +1,39 @@
+{
+"categories":[
+    {
+        "id": "1",
+        "studio": "drama",
+        "idcategory": "drama"
+        },
+        {
+        "id": "2",
+        "studio": "Ngôn tình",
+        "idcategory": "ngontinh"
+        },
+        {
+        "id": "3",
+        "studio": "Tiểu thuyết",
+        "idcategory": "tieuthuyet"
+        },
+        {
+        "id": "4",
+        "studio": "Ngôn tình hiện đại",
+        "idcategory": "ngontinhhiendai"
+        },
+        {
+        "id": "5",
+        "studio": "Tiểu tam",
+        "idcategory": "tieutam"
+        },
+        {
+        "id": "6",
+        "studio": "Nữ cường",
+        "idcategory": "nucuong"
+        },
+        {
+        "id": "",
+        "studio": "18+",
+        "idcategory": "18+"
+        }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+"dschap": [
+      
+    {"id":"1","tenChap":"CHƯƠNG 1: CUỘC HẸN BẤT NGỜ","idchap":"nanglolemvachanghoangtubeo","idread":"chuong1:cuochenbatngo"},
+    {"id":"2","tenChap":"CHƯƠNG 2 : CHUYẾN TÀU EM XA ANH","idchap":"nanglolemvachanghoangtubeo","idread":"chuong2:chuyentauemxaanh"},
+    {"id":"3","tenChap":"CHƯƠNG 3 : HỮU DUYÊN THIÊN LÝ NĂNG TƯƠNG NGỘ","idchap":"nanglolemvachanghoangtubeo","idread":"chuong3:huuduyenthien"},
+    {"id":"4","tenChap":"CHƯƠNG 4 : ĐỪNG ĐẾN VỚI EM TRONG GIẤC MƠ","idchap":"nanglolemvachanghoangtubeo","idread":"chuong4:dungdenvoiemtronggiacmo"},
+    {"id":"5","tenChap":"CHƯƠNG 5 : TÌM EM...","idchap":"nanglolemvachanghoangtubeo","idread":"chuong5:timem"},
+    {"id":"6","tenChap":"CHƯƠNG 6 : BỨC TRANH EM VẼ TẶNG TÔI","idchap":"nanglolemvachanghoangtubeo","idread":"chuong6:buctranhemvetangtoi"},
+    {"id":"7","tenChap":"CHƯƠNG 7 : OẢI HƯƠNG NĂM ẤY","idchap":"nanglolemvachanghoangtubeo","idread":"chuong7:oaihuongnamay"},
+    {"id":"8","tenChap":"CHƯƠNG 8: ANH DÙNG NỖI NHỚ VẼ DÁNG HÌNH EM","idchap":"nanglolemvachanghoangtubeo","idread":"chuong8:anhdungnoinhovedanghinhem"},
+    {"id":"9","tenChap":"CHƯƠNG 9: PHÁO HOA ĐÊM GIAO THỪA","idchap":"nanglolemvachanghoangtubeo","idread":"chuong9:phaohoademgiaothua"},
+    {"id":"10","tenChap":"CHƯƠNG 10: GẶP LẠI OẢI HƯƠNG","idchap":"nanglolemvachanghoangtubeo","idread":"chuong10:gaplaioaihuong"},
+    {"id":"11","tenChap":"CHƯƠNG 11: TÁI NGỘ","idchap":"nanglolemvachanghoangtubeo","idread":"chuong11:taingo"},
+    {"id":"12","tenChap":"CHƯƠNG 12: MÌNH SẼ NẮM TAY NHAU ĐI QUA GIÔNG GIÓ","idchap":"nanglolemvachanghoangtubeo","idread":"chuong12:minhsenamtaynhaudiquagiongto"},
+    {"id":"13","tenChap":"CHƯƠNG 13: CÓ ANH ĐANG NẮM TAY EM ĐÂY RỒI","idchap":"nanglolemvachanghoangtubeo","idread":"chuong13:coanhdangnamtayemdayroi"},
+    {"id":"14","tenChap":"CHƯƠNG 14: VÌ SAO MÙA XUÂN ẤM ÁP?","idchap":"nanglolemvachanghoangtubeo","idread":"chuong14:visaomuaxuanamap"},
+    {"id":"15","tenChap":"CHƯƠNG 15: BƯỚC VỀ PHÍA ANH","idchap":"nanglolemvachanghoangtubeo","idread":"chuong15:buocvephiaanh"},
+    {"id":"16","tenChap":"CHƯƠNG 16: KHOẢNG CÁCH","idchap":"nanglolemvachanghoangtubeo","idread":"chuong16:khoangcach"},
+    {"id":"17","tenChap":"CHƯƠNG 17: VÌ ANH...","idchap":"nanglolemvachanghoangtubeo","idread":"chuong17:vianh"},
+    {"id":"18","tenChap":"CHƯƠNG 18: \"EM YÊU ANH\"","idchap":"nanglolemvachanghoangtubeo","idread":"chuong18:emyeuanh"},
+    {"id":"19","tenChap":"CHƯƠNG 19: EM & YÊU","idchap":"nanglolemvachanghoangtubeo","idread":"chuong19:emvayeu"},
+    {"id":"20","tenChap":"CHƯƠNG 20: VƯỜN HỒNG TRONG TRÁI TIM NGƯỜI MẸ","idchap":"nanglolemvachanghoangtubeo","idread":"chuong20:vuonghongtrongtraitimnguoime"}
+    
+]
+}
